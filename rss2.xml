@@ -9,8 +9,31 @@
     <atom:link href="http://example.com/rss2.xml" rel="self" type="application/rss+xml"/>
     
     <description>追风赶月莫停留</description>
-    <pubDate>Sun, 26 Nov 2023 16:25:46 GMT</pubDate>
+    <pubDate>Tue, 28 Nov 2023 05:26:47 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>学习使用Markdown</title>
+      <link>http://example.com/2023/11/28/%E5%AD%A6%E4%B9%A0%E4%BD%BF%E7%94%A8Markdown/</link>
+      <guid>http://example.com/2023/11/28/%E5%AD%A6%E4%B9%A0%E4%BD%BF%E7%94%A8Markdown/</guid>
+      <pubDate>Mon, 27 Nov 2023 17:04:25 GMT</pubDate>
+      
+        
+        
+      <description>&lt;h1 id=&quot;学习使用Markdown&quot;&gt;&lt;a href=&quot;#学习使用Markdown&quot; class=&quot;headerlink&quot; title=&quot;学习使用Markdown&quot;&gt;&lt;/a&gt;学习使用Markdown&lt;/h1&gt;&lt;ol&gt;
+&lt;li&gt;在文字前加#和一个空格就能设置成标题，以及标题一</description>
+        
+      
+      
+      
+      <content:encoded><![CDATA[<h1 id="学习使用Markdown"><a href="#学习使用Markdown" class="headerlink" title="学习使用Markdown"></a>学习使用Markdown</h1><ol><li>在文字前加#和一个空格就能设置成标题，以及标题一个#，二级标题两个#，以此类推</li><li>在文字两边各加两个星表示对包围的文字的加粗，eg 标题 <strong>标题</strong>，（第二个标题在Markdown中输入时，两边个加了**）</li><li>在文字两边各加一个星，可以将包围文字变成斜体，eg 标题 <em>标题</em>（第二个标题在Markdown中输入时，两边各加了*）</li><li>在文字前加&gt;和一个空格表示引用这句话。</li><li>在空白处输入***表示一条分割线。</li><li>在文字前加-和一个空格表示无序列表。</li><li>在文字前加阿拉伯数字，一个英文.和一个空格表示有序列表.</li><li>用[显示文本](链接地址）表示插入超链接。</li><li>用![](图片链接地址）表示插入图片。</li></ol><hr><p>（此处的分割线在Markdown中是三个*）</p><hr><p>试试插入超链接<br><a href="https://zhuanlan.zhihu.com/p/342282274">Markdown介绍及使用教程</a><br><a href="https://forest-tonghua.github.io/" title="本人博客">https://forest-tonghua.github.io</a><br>也可以通过软件头部的插入-超链接 实现</p><hr><p>试试引用</p><blockquote><p>枯木逢春犹再发 人无两度再少年<br> ——《增广贤文》</p></blockquote><hr><p>代码的引用</p><ul><li>只有一行代码，用&#96;将语句括起来就行 </li><li>有多行代码，用&#96;&#96;&#96;划定代码的区域即可。</li></ul><figure class="highlight plaintext"><table><tr><td class="code"><pre><span class="line"></span><br><span class="line">include&lt;stdio.h&gt;</span><br><span class="line"></span><br><span class="line">include&lt;stdlib.h&gt;</span><br><span class="line"></span><br><span class="line">include&lt;string.h&gt;</span><br><span class="line"></span><br></pre></td></tr></table></figure><hr><p>本章讲述了Markdown的基本操作（只是初步了解），希望在今后的使用中能越来越熟练地运用它。文章参考：[<a href="http://markdown/">http://Markdown</a> 介绍及使用教程 - 靓仔的文章 - 知乎](<a href="http://markdown/">http://Markdown</a> 介绍及使用教程 - 靓仔的文章 - 知乎)</p>]]></content:encoded>
+      
+      
+      
+      
+      <comments>http://example.com/2023/11/28/%E5%AD%A6%E4%B9%A0%E4%BD%BF%E7%94%A8Markdown/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Finished</title>
