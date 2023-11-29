@@ -1,8 +1,8 @@
-http://example.com/2023/11/28/%E5%AD%A6%E4%B9%A0%E4%BD%BF%E7%94%A8Markdown/
-http://example.com/2023/11/27/Finish/
-http://example.com/resources/index.html
-http://example.com/about/index.html
-http://example.com/tags/index.html
-http://example.com/categories/index.html
-http://example.com/2023/11/20/hello-world/
-http://example.com/
+https://example.com/2023/11/28/%E5%AD%A6%E4%B9%A0%E4%BD%BF%E7%94%A8Markdown/
+https://example.com/2023/11/27/Finish/
+https://example.com/resources/index.html
+https://example.com/about/index.html
+https://example.com/tags/index.html
+https://example.com/categories/index.html
+https://example.com/2023/11/20/hello-world/
+https://example.com/
